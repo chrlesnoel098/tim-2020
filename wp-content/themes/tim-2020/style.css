@@ -941,6 +941,7 @@ textarea {
 .site-title {
   font-size: 8em;
   background-color: grey;
+  text-align: center;
 }
 
 .site-title a {

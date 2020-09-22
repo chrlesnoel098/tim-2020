@@ -947,4 +947,22 @@ textarea {
 .site-title a {
   color: white !important;
 }
+
+ul#menu {
+  display: table-row;
+}
+
+ul#menu li {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+ul#menu li {
+  height: 30px;
+  line-height: 30px;
+}
+
+ul#menu li {
+  padding: 15px 5px 15px 5px;
+}
 /*# sourceMappingURL=style.css.map */

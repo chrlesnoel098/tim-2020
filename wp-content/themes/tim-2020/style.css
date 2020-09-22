@@ -950,6 +950,7 @@ textarea {
 
 .menu ul {
   padding-right: 5em;
+  display: inline-block;
 }
 
 .menu a {

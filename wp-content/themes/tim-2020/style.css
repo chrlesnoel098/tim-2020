@@ -951,10 +951,16 @@ textarea {
 .menu ul {
   padding-right: 5em;
   display: inline-block;
+  float: right;
+}
+
+.menu li {
+  padding-top: 5em;
 }
 
 .menu a {
   font-size: 2em;
-  padding-right: 3em;
+  writing-mode: vertical-lr;
+  text-orientation: mixed;
 }
 /*# sourceMappingURL=style.css.map */

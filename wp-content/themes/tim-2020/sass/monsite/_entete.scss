@@ -1,6 +1,6 @@
 .site-title{
     font-size: 8em;
-    background-color: grey;
+    background-color: green;
     text-align: center;
 }
 
@@ -8,19 +8,11 @@
     color: rgb(255, 255, 255) !important; 
 }
 
-ul#menu {
-    display: table-row;
-}
-ul#menu li {
-    display: table-cell;
-    vertical-align: middle;
+.menu ul{
+    padding-right: 5em;
 }
 
-ul#menu li {
-    height: 30px;
-    line-height: 30px;
-}
-
-ul#menu li {
-    padding: 15px 5px 15px 5px;
+.menu a{
+    font-size: 2em;
+    padding-right: 3em;
 }
